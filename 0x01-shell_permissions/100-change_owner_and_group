@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown -h vincent:staff _hello 
+=======
+chown -R vincent:staff .
+>>>>>>> 03fc78627e101817e2d0f2a47503789138af0b27
