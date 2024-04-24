@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # Start Apache inside Docker container
 service apache2 start
+#this script fixes the apache server
+sudo service apache start
