@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Start Apache inside Docker container
+# Start Apache so as to return a
+# page contining Hello Holberton
 service apache2 start
-#this script fixes the apache server
-sudo service apache start
