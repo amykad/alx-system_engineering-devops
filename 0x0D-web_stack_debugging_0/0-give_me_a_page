@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # Start Apache inside Docker container
-exec apache2ctl -D FOREGROUND
 service apache2 start
